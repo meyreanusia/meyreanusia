@@ -20,9 +20,6 @@ and a constant drive for personal development.
 ##
 ### How to Reach me?
 
-You can reach me at my [E-mail](meyreanusia@gmail.com).
-
-Follow my socials:
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://carine.dev/)](https://meyreanusia.carrd.co/)
 [![Instagram: meyreanusia](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/meyreanusia?igsh=aDhqMHExZGVnNXUz&utm_source=qr)](https://www.instagram.com/meyreanusia?igsh=aDhqMHExZGVnNXUz&utm_source=qr)
 [![Linkedin: meyre-frança](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meyre-fran%C3%A7a-912b76185/)](https://www.linkedin.com/in/meyre-fran%C3%A7a-912b76185/)
